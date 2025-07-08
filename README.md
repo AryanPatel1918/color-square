@@ -9,6 +9,6 @@ A simple React + CSS project where you can type a color into an input field, and
 - ✅ Smooth transition effects for color and interaction
 - ✅ Click effects on both the square and input
 
-## 📸 Screenshot 
+## 📸 Screenshots
 ![Screenshot 1](./screenshot_1.png)
 ![Screenshot 2](./screenshot_2.png)
