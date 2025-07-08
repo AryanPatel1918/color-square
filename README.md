@@ -1,1 +1,1 @@
-# color-square
+# Color Square
